@@ -98,6 +98,7 @@ export const social = [
   { name: 'YouTube', handle: 'budhramkamait', url: 'https://www.youtube.com/@budhramkamait' },
   { name: 'TikTok', handle: 'budhram.kamait', url: 'https://www.tiktok.com/@budhram.kamait' },
   { name: 'Snapchat', handle: 'BudhramKamait', url: 'https://www.snapchat.com/add/BudhramKamait' },
+  { name: 'Facebook', handle: 'BudhramKamait', url: 'https://www.facebook.com/Budhramkamait' },
 ];
 
 export const navLinks = [

@@ -1,6 +1,6 @@
 import { useState, FormEvent } from 'react';
 import { motion } from 'framer-motion';
-import { Instagram, Linkedin, Youtube, Send, CheckCircle2 } from 'lucide-react';
+import { Instagram, Linkedin, Youtube, Send, Facebook,CheckCircle2 } from 'lucide-react';
 import { social } from '../data/content';
 import SectionHeading from './SectionHeading';
 
@@ -10,6 +10,7 @@ const iconFor: Record<string, JSX.Element> = {
   Instagram: <Instagram size={18} />,
   LinkedIn: <Linkedin size={18} />,
   YouTube: <Youtube size={18} />,
+  Facebook: <Facebook size={18} />
 };
 
 // 1. Sign up at https://formspree.io (free) and create a new form.
